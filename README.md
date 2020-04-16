@@ -30,12 +30,15 @@ An easy way to accomplish this is to make a "Day in the Life" story. Begin with 
 Most of the optional sections should be skipped, other than the "Custom Colors" section. The "CSS in Browser" section and "More on Variables" section are covered by the Lecture, and the "Next Steps" section is replaced by the Individual Exercise.
 
 ## Individual Exercise
+Allow the students to complete the individual exercise. There is an open-ended option and a more structured option. The goal is for the students to enjoy themselves working in Twine or writing a story. Encourage them to be creative and have fun with their stories. If a student says they are "done" writing, try to guide them to another chapter or another pathway their story could take.
 
-## Next Steps
-Try to continue the story with some new branches! Write it out on paper or in Notepad first to get an idea of where the story should go. Then, try to update the code to make it into a playable game! Feel free to elaborate on the existing story, or change it completely. Have fun!
+## Suggested Schedule
 
-### Challenge Ideas
-- Add a different image to every passage
-- Add a new variable to keep track of something else throughout the story
-- Add several new branches that take the main character on many new adventures
-- Do some Google research to learn more about CSS, and update the styles for the story
+| Activity | Time |
+|-|-|
+| Icebreaker | 15m |
+| Lecture | 20m |
+| Kahoot | 10m |
+| Break | 10m |
+| Follow-Along | 45m |
+| Individual | 50m |
