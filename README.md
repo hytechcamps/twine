@@ -1,5 +1,5 @@
 # Interactive Storytelling with Twine
-An workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~2hrs. Twine is an open-source tool for telling interactive, nonlinear stories.
+A workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~2hrs. Twine is an open-source tool for telling interactive, nonlinear stories.
 
 ## Topics
 
