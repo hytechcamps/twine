@@ -10,7 +10,7 @@ A workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~2hrs. Twine 
 ## Icebreaker
 Start things off with a quick icebreaker activity so the students can get to know each other.
 
-- [This or That](https://www.teacherspayteachers.com/Product/This-or-That-An-Icebreaker-that-Rocks-1977647) - the instructor poses a question to the students, and the students group up based on their answers to argue for their side
+- [This or That](https://www.teacherspayteachers.com/Product/This-or-That-An-Icebreaker-that-Rocks-1977647) - the instructor poses questions to the students, and the students group up based on their answers. Each group will have an opportunity to argue briefly for their side. For a virtual camp, use Zoom's polling feature.
 
 ## Lecture
 The lecture uses a [PowerPoint presentation](InteractiveStorytelling.pptx) to introduce students to interactive storytelling. It covers the background of interactive fiction, Twine, CSS, and variables.
