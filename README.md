@@ -1,6 +1,27 @@
 # Interactive Storytelling with Twine
 A workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~2hrs. Twine is an open-source tool for telling interactive, nonlinear stories.
 
+## Suggested Schedule (Virtual)
+
+| Activity | Time |
+|-|-|
+| Icebreaker | 15m |
+| Virtual Lecture | 10m |
+| Virtual Kahoot | 5m |
+| Follow-Along | 45m |
+| Individual | 15m |
+
+## Suggested Schedule
+
+| Activity | Time |
+|-|-|
+| Icebreaker | 15m |
+| Lecture | 20m |
+| Kahoot | 10m |
+| Break | 10m |
+| Follow-Along | 45m |
+| Individual | 50m |
+
 ## Topics
 
 - Using Twine to write interactive fiction stories
@@ -42,24 +63,3 @@ It may also be necessary to skip the "Tracking Story Information with Variables"
 
 ## Individual Exercise
 Allow the students to complete the individual exercise. There is an open-ended option and a more structured option. The goal is for the students to enjoy themselves working in Twine or writing a story. Encourage them to be creative and have fun with their stories. If a student says they are "done" writing, try to guide them to another chapter or another pathway their story could take.
-
-## Suggested Schedule (Virtual)
-
-| Activity | Time |
-|-|-|
-| Icebreaker | 15m |
-| Virtual Lecture | 10m |
-| Virtual Kahoot | 5m |
-| Follow-Along | 45m |
-| Individual | 15m |
-
-## Suggested Schedule
-
-| Activity | Time |
-|-|-|
-| Icebreaker | 15m |
-| Lecture | 20m |
-| Kahoot | 10m |
-| Break | 10m |
-| Follow-Along | 45m |
-| Individual | 50m |
