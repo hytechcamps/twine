@@ -1,6 +1,9 @@
 # Interactive Storytelling with Twine
 A workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~2hrs. Twine is an open-source tool for telling interactive, nonlinear stories.
 
+## Student Content
+Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/twine).
+
 ## Suggested Schedule (Virtual)
 
 | Activity | Time |
