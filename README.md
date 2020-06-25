@@ -4,6 +4,10 @@ A workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~2hrs. Twine 
 ## Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/twine).
 
+## Videos
+- [Interactive Storytelling Lecture](https://www.youtube.com/watch?v=nylg0e3rRiQ&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
+- [Interactive Storytelling Follow-Along](https://www.youtube.com/watch?v=9PuIZa3iX7E&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
+
 ## Suggested Schedule (Virtual)
 
 | Activity | Time |
