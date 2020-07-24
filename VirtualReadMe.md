@@ -28,10 +28,10 @@ Student-facing content is available at [hytechcamps.github.io](https://hytechcam
 ## Icebreaker
 Start things off with a quick icebreaker activity so the students can get to know each other: [This or That](https://www.teacherspayteachers.com/Product/This-or-That-An-Icebreaker-that-Rocks-1977647)
 
-1. Share an image with two options: one on the left, and one on the right.  
-    - For example, this could be tea vs. coffee, winter vs. summer, breakfast vs. dinner, or anything else like that.
-1. Have each student use Zoom's [Annotations](https://support.zoom.us/hc/en-us/articles/115005706806-Using-annotation-tools-on-a-shared-screen-or-whiteboard) to mark which side they prefer with a checkmark, showing their name.
-1. Go around the room and have each student introduce themselves and explain their preference.
+1. Use Zoom polls to ask a few "this or that" questions
+    - e.g., tea v. coffee, winter v. summer, breakfast v. dinner
+    - This can also be done by showing a slide with the questions
+1. Once each student has stated their opinion, go around the Zoom room and have each student introduce themselves and explain their preferences
 
 ## Virtual Lecture
 The [virtual PowerPoint](InteractiveStorytellingVirtual.pptx) is a brief introduction to interactive fiction. It does not dive into the specifics of Twine.
