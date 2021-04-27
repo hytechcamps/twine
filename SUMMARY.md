@@ -1,1 +1,3 @@
+- [Follow-Along](FollowAlong.md)
 - [Individual Exercise](IndividualExercise.md)
+- [Sharing Stories](SharingStories.md)
