@@ -1,5 +1,5 @@
 # VIRTUAL: Interactive Storytelling with Twine
-A workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~1.5hrs. Twine is an open-source tool for telling interactive, nonlinear stories.
+A workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~2hrs. Twine is an open-source tool for telling interactive, nonlinear stories.
 
 ## Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/twine).
@@ -46,15 +46,17 @@ It may also be necessary to skip the "Tracking Story Information with Variables"
 If there is any time remaining, allow the students to complete the [individual exercise](IndividualExercise.md). There is an open-ended option and a more structured option. The goal is for the students to enjoy themselves working in Twine or writing a story. Encourage them to be creative and have fun with their stories. If a student says they are "done" writing, try to guide them to another chapter or another pathway their story could take.
 
 ## Sharing Stories
-Toward the end of the session, encourage students to share their stories. Unfortunately, Twine does not have a built-in way to share stories easily. There are some [instructions](SharingStories.md) that walk through the process of adding their code to a Replit project. This is a little complicated, so it may be a good idea to walk through the process with the students at the end of the camp.
+Toward the end of the session, encourage students to share their stories. Unfortunately, Twine does not have a built-in way to share stories easily. There are some [instructions](SharingStories.md) that walk through the process of adding their code to a Replit project. This is a little complicated, so if there is interest, walk through the process with the students at the end of the camp (the last 15 minutes or so).
+
+If there is nothing else to do and the students are not active, feel free to end the workshop early.
 
 ## Suggested Schedule (Virtual)
 
 | Activity | Time |
 |-|-|
-| Icebreaker | 10m |
-| Virtual Lecture | 10m |
+| Icebreaker | 15m |
+| Virtual Lecture | 15m |
 | Virtual Kahoot | 10m |
-| Follow-Along | 40m |
-| Individual | 10m |
-| Sharing Stories | 10m |
+| Follow-Along | 50m |
+| Individual | 15m |
+| Sharing Stories | 15m |
