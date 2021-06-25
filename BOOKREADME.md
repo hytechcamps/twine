@@ -17,7 +17,7 @@ Follow [these steps](FollowAlong.md) to start writing a story in Twine!
 <iframe width="100%" height="450px" src="https://www.youtube.com/embed/9PuIZa3iX7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Self-Paced Work
-Work on the [Individual exercise](IndividualExercise.md) after the follow-along activity.
+Work on the [individual exercise](IndividualExercise.md) after the follow-along activity.
 
 ## Sharing Stories
 When you want to share your story, follow [these instructions](SharingStories.md)!
