@@ -18,9 +18,9 @@ Student-facing content is available at [hytechcamps.github.io](https://hytechcam
 ## Icebreaker
 Start things off with a quick icebreaker activity so the students can get to know each other: [This or That](https://www.teacherspayteachers.com/Product/This-or-That-An-Icebreaker-that-Rocks-1977647)
 
-1. Use Zoom polls to ask a few "this or that" questions
+1. Ask a few "this or that" questions
     - e.g., tea v. coffee, winter v. summer, breakfast v. dinner
-    - This can also be done by showing a slide with the questions
+    - Students can put their answers in the chat
 1. Once each student has stated their opinion, go around the Zoom room and have each student introduce themselves and explain their preferences
 
 ## Virtual Lecture
