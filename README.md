@@ -4,6 +4,13 @@ A workshop introducing [Twine](http://twinery.org/2/#!/welcome) in ~2.5hrs. Twin
 ## Virtual Camp
 For an outline of the virtual version of the camp, check out the [Virtual README](VirtualReadMe.md).
 
+## Videos
+Videos for the camp are available here:
+
+- [Virtual Lecture](https://www.youtube.com/watch?v=nylg0e3rRiQ)
+    - NOTE: The lecture video contains an example game. Students should have a chance to play the game themselves.
+- [Follow-Along](https://www.youtube.com/watch?v=9PuIZa3iX7E)
+
 ## Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/twine).
 
